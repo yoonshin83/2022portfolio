@@ -155,6 +155,7 @@ body:after {
 @media (min-width: 768px) {
   .site-section {
     padding: 7em 0;
+    font-family: "Noto Sans KR"; 
   }
 
 }
@@ -874,6 +875,7 @@ body:after {
 @media (max-width: 991.98px) {
   .site-blocks-cover.overlay:before {
     background: rgba(255, 255, 255, 0.5);
+  
   }
 }
 
